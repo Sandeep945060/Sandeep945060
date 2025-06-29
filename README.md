@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there! I'm Sandeep Yadav
 
-<!--
-**Sandeep945060/Sandeep945060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing my Master of Computer Applications (MCA) from Chandigarh University.  
+💻 I’m passionate about Web Development, Data Analytics, and Business Intelligence.  
+🌱 Currently learning Full Stack Development (HTML, CSS, JavaScript, React, Node.js, MongoDB) and Digital Marketing tools (WordPress, SEO, Google Ads, Analytics).  
+🔭 Working on real-world projects to improve my practical skills.  
+📌 Open to internships, freelance work, and collaboration opportunities.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Others: Git & GitHub, WordPress, SEO Tools, Google Analytics
+
+---
+
+### 📫 How to reach me:
+- LinkedIn: [Sandeep Yadav](https://www.linkedin.com/in/your-link)
+- Email: sandeepy945060@gmail.com
+- Portfolio: [My Portfolio](https://your-portfolio-link.com)
+
+---
+
+### ⚡ Fun fact:
+I love solving real-life problems with code and I’m always excited to learn something new every day!
+
+
